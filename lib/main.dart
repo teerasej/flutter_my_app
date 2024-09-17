@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:my_app/hello_widget.dart';
 
 main() {
-  print('hello');
-
   runApp(MyApp());
 }
 
